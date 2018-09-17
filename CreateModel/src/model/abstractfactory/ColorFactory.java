@@ -3,7 +3,7 @@ package model.abstractfactory;
 /**
  * @author xiongwu
  **/
-public class ColorFactory extends AbstactFactory{
+public class ColorFactory extends AbstractFactory{
 
     private static final String BLUE = "blue";
     private static final String RED = "red";

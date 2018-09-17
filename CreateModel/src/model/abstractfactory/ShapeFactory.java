@@ -3,7 +3,7 @@ package model.abstractfactory;
 /**
  * @author xiongwu
  **/
-public class ShapeFactory extends AbstactFactory{
+public class ShapeFactory extends AbstractFactory{
 
     private static final String CIRCLE ="Circle";
     private static final String RECTANGLE = "Rectangle";
